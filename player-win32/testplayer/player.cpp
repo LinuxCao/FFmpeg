@@ -2,7 +2,7 @@
 //LinuxCao
 //Rony
 //Running Man
-
+//FFmpeg
 #include "stdafx.h"
 #include "player.h"
 #include "playerDlg.h"
