@@ -1,6 +1,7 @@
 // player.cpp : Defines the class behaviors for the application.
 //LinuxCao
 //Rony
+//Running Man
 
 #include "stdafx.h"
 #include "player.h"
