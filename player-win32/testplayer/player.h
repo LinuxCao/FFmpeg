@@ -13,6 +13,7 @@
 // CplayerApp:
 // See player.cpp for the implementation of this class
 //
+//
 
 class CplayerApp : public CWinApp
 {
